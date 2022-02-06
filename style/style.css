@@ -1,0 +1,43 @@
+body {
+    background: #20252a;
+}
+
+h1 {
+    color: #36e51a;
+    text-align: center;
+    padding-top: 30px;
+    font-family: monospace;
+}
+
+h2 {
+    color: #36e51a;
+    text-align: center;
+    font-family: monospace;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.caixaTransformacao {
+    width: 250px;
+    height: 200px;
+    background: #fff;  
+
+    display: flex;
+    flex-direction: row;
+    justify-self: center;
+    margin: 0 auto 0 auto;
+    
+    border-radius: 20px;
+}
+
+input {
+    width: 250px;
+    height: 200px;
+    font-size: 18px;
+}
+
+button {
+    height: 206px;
+
+}
