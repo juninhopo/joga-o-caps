@@ -1,5 +1,4 @@
-texto = 'oi'
+let input = document.querySelector("#jogaUPPER");
+let jogaOCAPS = text.toUpperCase();
 
-const jogaOCAPS = toLowerCase(texto);
-
-console.log(jogaOCAPS)
+console.log(jogaOCAPS);
